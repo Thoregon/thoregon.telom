@@ -1,0 +1,18 @@
+{
+  "name": "thoregon.telom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thoregon/thoregon.telom.git"
+  },
+  "keywords": [],
+  "author": "Bernhard Lukassen <bl@bernhard-lukassen.com> (http://www.bernhard-lukassen.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "evolux.util": "file:../../evolux.modules/evolux.util"
+  }
+}
